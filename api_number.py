@@ -1,9 +1,7 @@
 import requests
 
-# key = 'd4686ccdcd4b5b5271e98807be65fd73'
+key = ''
 url = 'https://sms-activation-service.com/stubs/handler_api'
-
-key = 'db2950a5b0eb97cc66d5e8a51465cda4'
 
 
 def get_status(number_id: int):
