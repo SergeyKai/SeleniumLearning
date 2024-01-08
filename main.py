@@ -54,3 +54,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# sms-activation-service.com
+# https://sms-activation-service.com/ru/user/profile/
