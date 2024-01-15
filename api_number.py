@@ -1,6 +1,7 @@
 import requests
 
-key = ''
+key = 'd4686ccdcd4b5b5271e98807be65fd73'
+# key = 'e8d7379b6ce9a641e5723d2c3a6a2686'
 url = 'https://sms-activation-service.com/stubs/handler_api'
 
 
